@@ -4,7 +4,7 @@
 
 #### I'm an 11th grade high school student
 
-- 🏢 I'm currently interning with Asw. Carol Murphey
+- 🏢 Intern to Asw. **Carol Murphey**
 - 🌍 I'm mostly active in the **United States**
 - 🎹 Carnegie Hall **Pianist**
 - 🌱 Learning all about **Python 2**
