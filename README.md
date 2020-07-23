@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://yusuf-zain.com/ghpvc/?username=your-github-username&color=green)
+![](https://komarev.com/ghpvc/?username=yusuf-zain&color=green)
 
 #### I'm an 11th grade high school student
 
