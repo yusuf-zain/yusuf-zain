@@ -12,4 +12,4 @@
 - 💬 Message me on [discord](https://discord.com/app): **! ! ! xCoolKidx クールな子ども#7143**
 - 📫 Reach me: [twitter.com/yusuf_xain](https://twitter.com/yusuf_xain)
 - ⚡️ Fun fact: I'm a fan of **CS:GO**
-- 💻 My **[website](http://www.zerocovidnj.org/)**
+- 💻 My **[website](http://www.servingsj.org/)**
