@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=yusuf-zain&color=green)
 
 #### I'm an 11th grade high school student
-h
+
 - 🏢 Intern to **Asw. Carol Murphey**
 - 🌍 I'm mostly active in the **United States**
 - 🎹 Carnegie Hall **Pianist**
